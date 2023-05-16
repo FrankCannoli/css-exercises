@@ -1,0 +1,19 @@
+.odd-numbers {
+    background-color: salmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#oneID {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd-numbers#anotherID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
